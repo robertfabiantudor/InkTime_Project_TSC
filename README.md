@@ -1,5 +1,12 @@
 # InkTime Smartwatch
 
+
+<video width="600" controls>
+  <source src="./Assets/InkTime_Explode_Animation.mp4" type="video/mp4">
+  Your browser does not support the video.
+</video>
+
+
 ## Block Diagram
 ![InkTime Block Diagram](./Assets/InkTime_Block_Diagram.png)
 
