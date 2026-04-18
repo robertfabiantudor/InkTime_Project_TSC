@@ -3,14 +3,15 @@
 
 ![InkTime_Explode_Animation](./Assets/InkTime_Explode_Animation.gif)
 
+<br/>
+<br/>
+
 
 ## Block Diagram
 ![InkTime Block Diagram](./Assets/InkTime_Block_Diagram.png)
 
-
 <br/>
 <br/>
-
 
 ## Bill of Materials(BOM)
 
@@ -196,7 +197,3 @@ The system is built around the **nRF52840 microcontroller**, which controls all 
 | P1.12                | Unused                                                                  | Not connected                 |
 | P1.11                | Unused                                                                  | Not connected                 |
 | P1.10                | Unused                                                                  | Not connected                 |
-
-
-<br/>
-<br/>
